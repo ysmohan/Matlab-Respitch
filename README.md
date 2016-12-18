@@ -3,7 +3,7 @@ Introduction
 
 MATLAB is a programming language used extensively for data analysis in science and engineering.Unlike other programming languages, MATLAB is primarily made for research activities. This means that there are certain functions that MATLAB performs really well. On top of this, coding in MATLAB is really simple.
 
-In this chapter, we will learn to do two activities that every reseracher needs to perform at some point- data analysis and data visualisation- using MATLAB. In order to perform these activities, we will learn the following basics in MATLAB:
+In this chapter, we will learn to do two activities that every reseracher needs to perform at some point — data analysis and data visualisation — using MATLAB. In order to perform these activities, we will learn the following basics in MATLAB:
 
 ## Learning Objectives:
 
@@ -16,7 +16,7 @@ In this chapter, we will learn to do two activities that every reseracher needs 
 
 <h4> Contents:</h4>
 
-The rest of this chapter is set out as follows-
+The rest of this chapter is set out as follows:
 <p><ul>
 <li> <a href="#context"> Context </li>
 <li> <a href="#bg"> Background </li>
@@ -50,8 +50,8 @@ If your needs are specific, then you can write your own code and have I mentione
 
 <hr> </hr>
 <h2 id="ex"> Example </h2>
-Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral- a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this s-study used MATLAB for data analysis and visualisation and here is what they had to say about it.
-“ I use MATLAB for data analysis because it can handle the very large datasets produced in climate science. “ – Dr. Ed Hawkins
+Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it.
+“I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.“ – Dr. Ed Hawkins
 Without futher ado, let's begin our MATLAB journey.
 <hr> </hr>
 
@@ -59,10 +59,10 @@ Without futher ado, let's begin our MATLAB journey.
 
 When opening the MATLAB environment, we will find the following tabs (See image below):
 
-- The command window with the blinking cursor- this is where we type instructions to the computer <br>
+- The command window with the blinking cursor — this is where we type instructions to the computer <br>
 ```Try typing 2+3 in your command window. We can essentially use this part of MATLAB as a calculator.```
-- The WorkSpace- where all our matrices and vectors live.
-- The current directory- we can only access files in this folder. If we want to use files that are not in our current directory, we can change the current directory using the ```cd``` command followed by the location of the folder we want to change it to. For example if I want to change my working directory to a folder in C drive called 'MatExample', I would type in:
+- The WorkSpace — where all our matrices and vectors live.
+- The current directory – we can only access files in this folder. If we want to use files that are not in our current directory, we can change the current directory using the ```cd``` command followed by the location of the folder we want to change it to. For example if I want to change my working directory to a folder in C drive called 'MatExample', I would type in:
 
 ```cd 'C:\MatExample' ```
 
@@ -120,8 +120,8 @@ Master Challenge
 ###Bad Science!
 
 You are a budding climate scientist. You wanted to make great changes to the world using science. But academia being the cruel mistress she is broke you. You decided to turn to industry ("the lucrative, dark side of science"). However, poor judgement on your part followed by numerous bad
-decisions left you working for the Big Bad- Big Frump co. Now Big Frump Co. was not a good organisation. They had numerous dealings in
-non-renewable energy sources and rumour has it that their scientists practiced "Bad Science". Their key motto was "Correlation= Causation"-
+decisions left you working for the Big Bad — Big Frump co. Now Big Frump Co. was not a good organisation. They had numerous dealings in
+non-renewable energy sources and rumour has it that their scientists practiced "Bad Science". Their key motto was "Correlation= Causation" —
 the simple principle that just because two events are related, one must have caused the other. Their arguments frequently involved repeatedly
 yelling "Wrong" and their favorite explanation was "Because I said so."
 Seduced by the ease of non-reason and misinformation, you've have indeed turned to the dark side.
