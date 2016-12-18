@@ -114,6 +114,45 @@ We created two vectors, X and Y. We can plot them individually by clicking on th
 </code></pre>
 
 
-You are now ready to do the [master challenge](https://ysmohan.gitbooks.io/matlab_respitch/content/masterchallenge.html).
+#
+Master Challenge
+
+###Bad Science!
+
+You are a budding climate scientist. You wanted to make great changes to the world using science. But academia being the cruel mistress she is broke you. You decided to turn to industry ("the lucrative, dark side of science"). However, poor judgement on your part followed by numerous bad
+decisions left you working for the Big Bad- Big Frump co. Now Big Frump Co. was not a good organisation. They had numerous dealings in
+non-renewable energy sources and rumour has it that their scientists practiced "Bad Science". Their key motto was "Correlation= Causation"-
+the simple principle that just because two events are related, one must have caused the other. Their arguments frequently involved repeatedly
+yelling "Wrong" and their favorite explanation was "Because I said so."
+Seduced by the ease of non-reason and misinformation, you've have indeed turned to the dark side.
+
+### The Task
+In the face of damning evidence suggesting that global temperatures are indeed rising, Big Frump himself has decided to put together a task
+force. You are a part of this task force of like-minded immoral "scientists". Your task is to come up with the worst possible climate hypothesis. You have trawled through the internet and found numerous data sets which can be found here and you need to use your MATLAB skills to find a relationship between them. Through this bad science you will help Big Frump perpetrate hate and fear. You will help him rule the ruins of the planet he has destroyed.
+Mwahahahaha!
+
+
+
+<pre><code>
+In order to successfully complete the challenge, you need to do the following:
+
+Step 1: Download the 'masterchallenge.mat' and 'variabledesc.txt' files into the MasterChallenge folder you created in challenge 1. variabledesc.txt contains a description of all the vectors you found on the Internet.
+Step 2: Ensure that the folder MasterChallenge is your current working directory. Double click on masterchallenge.mat. This should populate your workspace with the different vectors that you found on the internet.
+Step 3: Using scatter plots, find any relationship between the variables in your workspace.
+Step 4: Tweet your hypothesis and tag #ResBaz
+
+</code></pre>
+
+# Plenary
+
+At the end of this chapter, you would have learned how to:
+
+- Change the current directory
+- Load vectors/matrices into the workspace.
+- Use the command window to perform simple arithmetic operations on your matrices and vectors.
+- Use the Plots tab to perform some experimental data analysis.
+
+If you want to learn more about using MATLAB, you can find course material here:
+There are also easy to understand videos here:
 
 
