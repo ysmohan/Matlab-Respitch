@@ -43,10 +43,14 @@ Prior to beginning this chapter, please ensure that you have MATLAB installed on
 
 <h2 id="bg"> Background </h2>
 
-As mentioned earlier, MATLAB is a tool used extensively in research for data analysis. However, unlike other programming languages, MATLAB is primarily made for research activities. This means that there are certain functions that MATLAB performs really well. This also means that there are certain other functions that MATLAB doesn't very well. For example, while MATLAB is excellent at processing numbers, it does not do so well when it comes to letters. However, MATLAB does provide an environment where we can perform multiple functions that are required by researchers which makes it relevant and useful.
+As mentioned earlier, MATLAB is a tool used extensively in research for data analysis. However, unlike other programming languages, MATLAB is primarily made for research activities. This means that there are certain functions that MATLAB performs really well. On the other hand, there are certain other tasks for which MATLAB is not very well suited. For example, while MATLAB is excellent at working with numbers, it does not do so well with processing text. However, MATLAB does provide an environment where we can perform multiple functions that are required by researchers which makes it relevant and useful.
 
-Coding in MATLAB is also really simple. MATLAB has a thriving online community as well as people paid specifically to work on developing applications and toolboxes. This means that whatever your needs are, there is probably a toolbox for you. And if you are unable to find a toolbox, someone has written the code you need.
-If your needs are specific, then you can write your own code and have I mentioned coding in MATLAB is incredibly simple. This was one of the main reasons I began coding in MATLAB. In my lab, we had some pre-existing MATLAB code and I needed to write my own code as well to successfully complete my research. So armed with a set of YouTube videos and a dataset, I set off to try and wrangle meaningful results from my data.
+Whatever your needs are, there is probably a tool already available in MATLAB that can do what you want.
+MathWorks, the parent company of MATLAB, pays people specifically to work on developing applications and toolboxes.
+If you are unable to find an official toolbox, there is also a thriving online MATLAB community.
+Often someone will have already written the code you need, and made it available to use for free.
+
+If your needs are specific, then you can write your own code, and let me say, coding in MATLAB is incredibly simple. This was one of the main reasons I began coding in MATLAB. In my lab, we had some pre-existing MATLAB code and I needed to write my own code as well to successfully complete my research. So, armed with a set of YouTube videos and a dataset, I set off to try and wrangle meaningful results from my data.
 
 <hr> </hr>
 <h2 id="ex"> Example </h2>
