@@ -54,10 +54,11 @@ If your needs are specific, then you can write your own code, and let me say, co
 
 <hr> </hr>
 <h2 id="ex"> Example </h2>
-Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it.
-“I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.“ – Dr. Ed Hawkins
+Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
+
+“I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.” – Dr. Ed Hawkins
+
 Without futher ado, let's begin our MATLAB journey.
-<hr> </hr>
 
 <h2 id="TheMAT"> The MATLAB environment </h2>
 
