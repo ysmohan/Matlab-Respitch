@@ -168,7 +168,7 @@ At the end of this chapter, you would have learned how to:
 - Change the current directory
 - Load vectors/matrices into the workspace.
 - Use the command window to perform simple arithmetic operations on your matrices and vectors.
-- Use the Plots tab to perform some experimental data analysis.
+- Use the Plots tab to perform some exploratory data analysis.
 
 If you want to learn more about using MATLAB, you can find course material here:
 There are also easy to understand videos here:
