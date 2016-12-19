@@ -9,8 +9,8 @@ In this chapter, we will learn to do two activities that every reseracher needs 
 
 - Be Familiar with the MATLAB environment.
 - Be able to write and run code from the command window.
-- Be able to perform simple calculations on Vectors.
-- Be able to plot graphs using the Plots tab.
+- Be able to perform simple calculations in MATLAB.
+- Be able to visualise data.
 
 <hr> </hr>
 
@@ -38,6 +38,8 @@ The rest of this chapter is set out as follows:
 ### Pre-requisites
 
 Prior to beginning this chapter, please ensure that you have MATLAB installed on your computer. Installation instructions can be found here: LINK.
+
+
 
 <hr></hr>
 
