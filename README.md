@@ -86,7 +86,20 @@ When opening the MATLAB environment, we will find the following tabs (See image 
 
 <h2 id="MatnVec"> Matrices and Vectors</h2>
 
-A matrix is the basic data structure in MATLAB. It has horizontal rows and vertical columns just like a spreadsheet. A matrix that has only one column or only one row is called a vector. In this sub-section, we are going to do some basic matrix and vector operations.
+Matrices are the basic data structure in MATLAB.
+A matrix is a rectangular table of numbers.
+Any rectangular table of numbers can be thought of as a matrix;
+one example is a spreadsheet of numerical data.
+
+The reason matrices are so important is because they can be used to encode
+information about a lot of different types of mathematical objects.
+There are also rules which let us combine matrices together,
+called matrix operations.
+Matrix operations are analogous to arithmetic between numbers,
+and are even still called addition and multiplication.
+
+A matrix that has only one column or only one row is called a vector.
+In this sub-section, we are going to do some basic matrix and vector operations.
 
 
 ![](RowsandColumns.PNG)
