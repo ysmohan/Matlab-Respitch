@@ -1,5 +1,4 @@
-#
-Introduction
+# Introduction
 
 MATLAB is a programming language used extensively for data analysis in science and engineering.
 
