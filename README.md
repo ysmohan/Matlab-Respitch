@@ -11,17 +11,6 @@ MATLAB is a programming language used extensively for data analysis in science a
 - Be able to use MATLAB functions.
 - Be able to extract raw data from published figures.
 
-Unlike other programming languages, MATLAB is primarily made for research activities. This means that there are certain functions that MATLAB performs really well. On top of this, coding in MATLAB is really simple.
-
-In this chapter, we will learn to do two activities that every reseracher needs to perform at some point — data analysis and data visualisation — using MATLAB. In order to perform these activities, we will learn the following basics in MATLAB:
-
-## Learning Objectives:
-
-- Be Familiar with the MATLAB environment.
-- Be able to write and run code from the command window.
-- Be able to perform simple calculations in MATLAB.
-- Be able to visualise data.
-
 <hr> </hr>
 
 <h4> Contents:</h4>
